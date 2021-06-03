@@ -153,3 +153,25 @@ public class JSONFlattener {
         }
     }
 }
+
+
+{
+    "TEST_CASE_ID":"TC-001",
+    "GFI_VERSION":"2.13.3.12", 
+	"TYPE":"ESME",
+    "USE_CASES": [ {
+                "STEP_1": {  
+				"CASE":"ECS52",					
+                    "STEPS":{
+                        "BusinessTargetName":"Sathish",
+                        "BusinessOriginatorName":"Senior software engineer", 
+                        "SupplementaryRemotePartyName":"HCL" ,
+						"FirmwareVersion.result":"YES",
+						"FirmwareVersion.value":"YES",
+						"Control.Error.Code":"NO",
+                            }										 
+                        }
+                   }
+				]
+}
+
